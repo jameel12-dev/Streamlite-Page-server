@@ -996,7 +996,7 @@ def stop_automation(user_id):
 def login_page():
     st.markdown("""
     <div class="main-header">
-        <h1>🔥 SAM KIING 🔥</h1>
+        <h1>🔥SAM KIING🔥</h1>
         <p>PREMIUM FACEBOOK MESSAGE AUTOMATION TOOL</p>
     </div>
     """, unsafe_allow_html=True)
